@@ -1,0 +1,5 @@
+open-clip-torch
+torch
+Pillow
+transformers
+chromadb
